@@ -1,6 +1,5 @@
 ---
-layout: page
-title: CV
+layout: default
 theme: jekyll-theme-tactile
 permalink: /cv/
 ---
