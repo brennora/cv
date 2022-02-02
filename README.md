@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+theme: jekyll-theme-tactile
 permalink: /cv/
 ---
 ## Welcome to GitHub Pages
