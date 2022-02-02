@@ -1,6 +1,6 @@
 ---
 layout: default
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
 ---
 ## Welcome to GitHub Pages
 
