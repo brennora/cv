@@ -4,7 +4,6 @@ url: https://brennora.github.io/
 theme: jekyll-theme-tactile
 layout: page
 title: CV
-permalink: /cv/
 ---
 ## Welcome to GitHub Pages
 
