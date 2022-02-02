@@ -1,4 +1,6 @@
 ---
+baseurl: /cv
+url: https://brecamer.github.io/
 layout: default
 theme: jekyll-theme-tactile
 ---
