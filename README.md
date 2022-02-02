@@ -1,6 +1,7 @@
 ---
 layout: default
 theme: jekyll-theme-midnight
+permalink: /cv/
 ---
 ## Welcome to GitHub Pages
 
